@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlgoworkTwitterFeed</string>
+    <string name="welcome">Welcome to Twitter</string>
+    <string name="intro">See what\'s happening in the world right now</string>
+    <string name="login_label">Connect to Twitter</string>
+
+</resources>
